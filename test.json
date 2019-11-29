@@ -1,0 +1,23 @@
+[
+    {
+        "name": "First Place Ribbon",
+        "bay": 1,
+        "offset": 5,
+        "x-LED": 2,
+        "y-LED": 3
+    },
+    {
+        "name": "St Mary's Banner",
+        "bay": 2,
+        "offset": 7,
+        "x-LED": 1,
+        "y-LED": 2
+    },
+    {
+        "name": "Achievement Certificate",
+        "bay": 2,
+        "offset": 7,
+        "x-LED": 4,
+        "y-LED": 7
+    }
+]

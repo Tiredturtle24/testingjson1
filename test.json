@@ -1,21 +1,21 @@
 [
     {
         "name": "First Place Ribbon",
-        "bay": 1,
+        "bay": "192.168.13.44",
         "offset": 5,
         "x_LED": 2,
         "y_LED": 3
     },
     {
         "name": "St Mary's Banner",
-        "bay": 2,
+        "bay": "192.168.13.42",
         "offset": 7,
         "x_LED": 1,
         "y_LED": 2
     },
     {
         "name": "Achievement Certificate",
-        "bay": 2,
+        "bay": "192.168.13.42",
         "offset": 7,
         "x_LED": 4,
         "y_LED": 7

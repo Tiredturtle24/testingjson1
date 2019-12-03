@@ -8,14 +8,14 @@
     },
     {
         "name": "St Mary's Banner",
-        "bay": "192.168.13.42",
+        "bay": "192.168.13.44",
         "offset": 7,
         "x_LED": 1,
         "y_LED": 2
     },
     {
         "name": "Achievement Certificate",
-        "bay": "192.168.13.42",
+        "bay": "192.168.13.44",
         "offset": 7,
         "x_LED": 4,
         "y_LED": 7
